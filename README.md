@@ -12,6 +12,9 @@ Snackbar message. All methods of Activity life cycle should be printed in Logcat
 
 ![image](https://github.com/AdesharaBrijesh/MAD_Practical-2_21012021001/assets/98079442/8f3a5860-47b8-4326-b995-f41a2e327fcc)
 
+![image](https://github.com/AdesharaBrijesh/MAD_Practical-2_21012021001/assets/98079442/c0dd9b8d-cfd1-4982-81a3-9dda7bc0db07)
+
+
 ![image](https://github.com/AdesharaBrijesh/MAD_Practical-2_21012021001/assets/98079442/111c15e6-3068-4096-8de8-85f2795f72e3)
 
 ![image](https://github.com/AdesharaBrijesh/MAD_Practical-2_21012021001/assets/98079442/8ea582c0-d3b0-4ae7-991d-27c9c2a9859c)
